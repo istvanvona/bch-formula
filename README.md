@@ -1,1 +1,3 @@
 # bch-formula
+
+Very slow.
